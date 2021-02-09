@@ -13,5 +13,8 @@
 - Zonix LLC
 - ForceByte LLC
 - Selix LLC
-
-[<img src="https://spotify-readme-tau.vercel.app/api/spotify-playing" alt="Currently Listening to" width="350" />](https://open.spotify.com/user/8p3rybjjjx9nzr6rz38szeen2?si=pcOheOuATlKBRWiLB3Cbrg)
+- Spark Network
+- EdenHCF Network
+- AngelPvP Network
+- VersePvP Network
+- ExemPvP Network
