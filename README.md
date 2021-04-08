@@ -1,8 +1,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Escapies&show_icons=true&theme=tokyonight&hide_border=true" width="100%">
 <hr>
-<!--
-<img src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" width="175" >
-<hr>
 
 ### My Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=escapies&layout=compact)
