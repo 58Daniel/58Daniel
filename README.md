@@ -2,4 +2,4 @@
 <hr>
 
 ### My Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Escapies&layout=compact)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Escapies)](https://github.com/anuraghazra/github-readme-stats)
