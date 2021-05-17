@@ -1,6 +1,5 @@
-<img src="https://github-readme-stats.vercel.app/api?username=Escapies&show_icons=true&theme=radical&hide_border=true" width="100%">
-<hr>
+### Hi there 👋
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Escapies&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+🌙 I'm currently working on [Cobalt Client](https://cobaltclient.com). as the CEO and Lead Developer.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Escapies&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+Some really cool open source projects are down below!
