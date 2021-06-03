@@ -9,7 +9,8 @@
   </a>
 </p>
 
-<h4 align="center">I code sometimes, kinda....</h4>
+<h4 align="center">Currently working on [MineLord.org](https://minelord.org).</h4>
+<h4 align="center">More open source projects will be created soon, just busy...).</h4>
 
 <p align="center">
   <a href="https://github.com/Escapies">
