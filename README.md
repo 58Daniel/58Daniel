@@ -9,11 +9,10 @@
   </a>
 </p>
 
-<h4 align="center">Currently working on [MineLord.org](https://minelord.org).</h4>
-<h4 align="center">More open source projects will be created soon, just busy...).</h4>
+<h5 align="center">Currently working on [MineLord.org](https://minelord.org).</h5>
 
 <p align="center">
   <a href="https://github.com/Escapies">
-    <img src="https://github-readme-stats.vercel.app/api?username=Escapies&count_private=true&show_icons=true&hide=stars&theme=react&hide_border=true&custom_title=Max%27s%20GitHub%20Stats" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Escapies&count_private=true&show_icons=true&hide=stars&theme=react&hide_border=true&custom_title=Escapies%27s%20GitHub%20Stats" alt="GitHub Stats"/>
   </a>
 </p>
