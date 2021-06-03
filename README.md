@@ -9,7 +9,9 @@
   </a>
 </p>
 
-<h5 align="center">Currently working on [MineLord.org](https://minelord.org).</h5>
+<p align="center">
+  Currently working on [MineLord.org](https://minelord.org)
+</p>
 
 <p align="center">
   <a href="https://github.com/Escapies">
