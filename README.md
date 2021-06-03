@@ -1,4 +1,4 @@
-<h1 align="center">:wave: Hey, I'm Max!</h1>
+<h1 align="center">:wave: Hey, I'm Escapies!</h1>
 
 <p align="center">
   <a href="https://discord.com/users/234464614996246529">
