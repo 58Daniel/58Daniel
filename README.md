@@ -10,7 +10,8 @@
 </p>
 
 <p align="center">
-  Currently working on [MineLord.org](https://minelord.org)
+  Currently working on MineLord Network.
+  Looking for development Positons, contact me on discord for inquiries
 </p>
 
 <p align="center">
