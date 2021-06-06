@@ -1,1 +1,1 @@
-![Metrics](https://github.com/Escapies/Escapies/blob/master/github-metrics.svg)
+![Metrics](https://metrics.lecoq.io/Escapies)
